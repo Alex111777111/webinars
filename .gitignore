@@ -5,3 +5,10 @@ out
 # netbeans
 build
 dist
+/servlets/InitParameters/nbproject/private/
+/servlets/FilterExample/nbproject/private/
+/servlets/SessionExample/nbproject/private/
+/servlets/TextImageExample/nbproject/private/
+/servlets/ListenerExample/nbproject/private/
+/servlets/AsynchronCallExample/nbproject/private/
+/servlets/FileUploadExample/nbproject/private/
